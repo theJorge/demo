@@ -1,6 +1,7 @@
-<<<<<<< Updated upstream
-this will cause trouble test test
-=======
-this will cause trouble test test
-modify
->>>>>>> Stashed changes
+#Demo Project README
+
+this is a simple readme file
+
+## Heading 2
+
+Just something going on
