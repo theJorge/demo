@@ -8,5 +8,9 @@ this is a simple readme file
 Just something going on
 =======
 this will cause trouble test test
+<<<<<<< Updated upstream
+modify
+>>>>>>> Stashed changes
+=======
 modify
 >>>>>>> Stashed changes
